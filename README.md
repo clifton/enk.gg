@@ -1,7 +1,7 @@
-# boaz.gg
+# enk.gg
 
-my name is bo
+my name is elijah
 
-![bo](/img/cabrito-tiny.png?raw=true "cabrito")
+![bo](/img/deucey.jpg "deucey")
 
-who wants to party
+it goes like this
